@@ -55,7 +55,14 @@ If you're running the project locally, you can start the server using
 npm start
 ```
 
-If you're running on CodeSandbox the project will automatically run for you.
+If you're running on CodeSandbox the project will automatically run for you. 
+
+#### Note for CodeSandbox
+You'll need to add the codesandbox domain to SafeStream by visiting the "Manage Domains" section of the [SafeStream console](https://admin.safestream.com). You should see this before you've added the domain to SafeStream:
+
+![Image of CodeSandob before Domain has been added to SafeStream](static/code-sandbox-network-error.png)
+
+In the image above the domain that would need to be added is `q99e5.csb.app` based on the browser URL bar in the right window.
 
 
 

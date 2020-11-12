@@ -21,7 +21,7 @@ npm i
 
 Alternatively, you can run it on CodeSandbox:
 
-[![Edit remark-codesandbox demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/safestream-player-example-65g1i)
+[![Edit remark-codesandbox demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/shiftio/safestream-player-example/tree/master/)
 
 ### Step 2 - Configure
 Set your API credentials in `src/index.js`

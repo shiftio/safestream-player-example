@@ -1,0 +1,25 @@
+{
+  "name": "safestream-player-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@safestream/safestream-javascript-sdk": "0.14.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1",
+    "video.js": "^7.10.2"
+  },
+  "keywords": [
+    "video",
+    "streaming",
+    "watermark"
+  ],
+  "author": "Mike Delano",
+  "license": "MIT"
+}

@@ -8,7 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "@safestream/safestream-javascript-sdk": "0.14.0",
+    "@safestream/safestream-javascript-sdk": "^0.14.0",
     "video.js": "^7.10.2"
   },
   "devDependencies": {
